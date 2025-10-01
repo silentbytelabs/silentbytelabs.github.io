@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 400 80" role="img" aria-label="SilentByte Labs">
+  <rect width="400" height="80" rx="14" fill="#0b0d10"/>
+  <g transform="translate(16,18)">
+    <text x="0" y="28" font-family="Segoe UI, Roboto, Arial" font-size="28" fill="#e6e8eb" font-weight="600">SilentByte</text>
+    <text x="174" y="28" font-family="Segoe UI, Roboto, Arial" font-size="24" fill="#00CFFF" font-weight="700">Labs</text>
+  </g>
+  <circle cx="360" cy="18" r="6" fill="#00CFFF"/>
+  <circle cx="374" cy="52" r="6" fill="#FF6F00"/>
+</svg>

@@ -1,0 +1,8 @@
+title: SilentByte Labs
+description: Field-proven IT tools
+collections:
+  products:
+    output: true
+permalink: pretty
+markdown: kramdown
+theme: null
