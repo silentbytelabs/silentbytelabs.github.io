@@ -16,5 +16,5 @@ title: Privacy — PhotoFlow (Field)
   <h2>Retention & deletion</h2>
   <p>Deleting the app removes locally stored data. Remove exported data from its destination separately.</p>
   <h2>Contact</h2>
-  <p>silentbytelabs@gmail.com</p>
+  <p>silentbyte.labs@gmail.com</p>
 </section>
